@@ -1,0 +1,1 @@
+include ':app', ':frag02_lifemethod', ':frag03_transaction', ':frag04_backstack', ':frag05_interactive', ':frag06_landscape', ':frag07_change'

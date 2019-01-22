@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/frag02_lifemethod" />
+            <option value="$PROJECT_DIR$/frag03_transaction" />
+            <option value="$PROJECT_DIR$/frag04_backstack" />
+            <option value="$PROJECT_DIR$/frag05_interactive" />
+            <option value="$PROJECT_DIR$/frag06_landscape" />
+            <option value="$PROJECT_DIR$/frag07_change" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

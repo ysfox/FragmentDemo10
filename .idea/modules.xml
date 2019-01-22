@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FragmentDemo10.iml" filepath="$PROJECT_DIR$/FragmentDemo10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frag02_lifemethod/frag02_lifemethod.iml" filepath="$PROJECT_DIR$/frag02_lifemethod/frag02_lifemethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frag03_transaction/frag03_transaction.iml" filepath="$PROJECT_DIR$/frag03_transaction/frag03_transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frag04_backstack/frag04_backstack.iml" filepath="$PROJECT_DIR$/frag04_backstack/frag04_backstack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frag05_interactive/frag05_interactive.iml" filepath="$PROJECT_DIR$/frag05_interactive/frag05_interactive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frag06_landscape/frag06_landscape.iml" filepath="$PROJECT_DIR$/frag06_landscape/frag06_landscape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frag07_change/frag07_change.iml" filepath="$PROJECT_DIR$/frag07_change/frag07_change.iml" />
+    </modules>
+  </component>
+</project>
